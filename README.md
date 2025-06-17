@@ -33,4 +33,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/WWIIITT/WWIIITT/output/snake.svg" alt="Snake animation" />
 
+###
