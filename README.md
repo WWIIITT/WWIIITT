@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is HO Cheuk Ting!</h2>
+<h2 align="left">Hi 👋!</h2>
 
 - 🔭 I’m currently working on **Animal Breathing Detection Project**
 
