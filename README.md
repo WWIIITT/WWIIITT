@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Large Language Model**
 
-![GitHub Card](https://githubcard.com/WWIIITT.svg)
+![GitHub Card](https://githubcard.com/WWIIITT.svg?d=lF09OaML)
  
 ####
 
