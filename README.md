@@ -4,8 +4,10 @@
 
 - 🌱 I’m currently learning **Large Language Model**
 
-![GitHub Card](https://githubcard.com/WWIIITT.svg?d=lF09OaML)
- 
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=WWIIITT&show_icons=true&theme=swift)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=WWIIITT&theme=radical)](https://github.com/WWIIITT/github-readme-stats-fast)
+
 ####
 
 <div align="left">
