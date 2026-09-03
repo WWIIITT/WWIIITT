@@ -1,8 +1,7 @@
 <h2 align="left">Hello there 👋!</h2>
 
-- 🔭 I’m currently working on **Image Retouching Project**
+- 🔭 I’m currently working on **AIGC Project**
 
-- 🌱 I’m currently learning **Large Language Model**
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=WWIIITT&show_icons=true&theme=swift)
 
